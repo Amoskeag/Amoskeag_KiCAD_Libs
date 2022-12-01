@@ -24,7 +24,7 @@
   (pad "3" thru_hole circle (at 2.5 2) (size 1.8 1.8) (drill 1.05) (layers *.Cu *.Mask) (tstamp fac34abe-5dd1-40ff-af54-8f2c49c20c17))
   (pad "4" thru_hole oval (at 5.4 0) (size 3.15 3.25) (drill oval 2 2.1) (layers *.Cu *.Mask) (tstamp 9af4de66-a4db-411a-a99c-c67ccd06528a))
   (pad "4" thru_hole oval (at -5.4 0) (size 3.15 3.25) (drill oval 2 2.1) (layers *.Cu *.Mask) (tstamp f32e11b2-28e4-402c-a60e-25adb823a788))
-  (model "${KIPRJMOD}/Libraries/Amoskeag-KiCAD-Lib/3D/Kalih Encoder 9mm.step"
+  (model "${AMOSKEAG_3DMODELS}/Kalih Encoder 9mm.step"
     (offset (xyz -0.2 0 12))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
