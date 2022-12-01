@@ -45,7 +45,7 @@
   (pad "14" smd rect (at 0.25 -1.385) (size 0.3 0.63) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b603d26a-e034-42fb-8327-b60c5bf9cdd2))
   (pad "15" smd rect (at -0.25 -1.385) (size 0.3 0.63) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2d6718e7-f18d-444d-9792-ddf1a113460c))
   (pad "16" smd rect (at -0.75 -1.385) (size 0.3 0.63) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f144a97d-c3f0-423f-b0a9-3f7dbc42478b))
-  (model "eec.models/ST_Microelectronics_-_STSPIN250.step"
+  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
