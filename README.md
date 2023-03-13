@@ -33,3 +33,5 @@ preflight:
 # Projects using this lib:
 
 https://github.com/Amoskeag/RoboDojo
+
+https://github.com/Amoskeag/Balance-Bot
